@@ -1,0 +1,5 @@
+{
+  "name": "Vape Hardware Designer",
+  "description": "Professional hardware design tool for vape pod systems, generating schematics, BOMs, and PCB visualizations.",
+  "requestFramePermissions": []
+}
